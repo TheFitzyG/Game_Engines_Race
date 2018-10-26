@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\seanf\.Rider2018.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\seanf\.Rider2018.2\system\resharper-host\local\Transient\ReSharperHost\v182\SolutionCaches\_Game_Engines_Race.-1207045063.00" t="ExcludeRecursive" />
+    <e p="C:\Users\seanf\Documents\GitHub\Game_Engines_Race\Game_Engines_Race" t="IncludeFlat">
+      <e p="Game_Engines_Race.sln" t="IncludeFlat" />
+      <e p="Library" t="ExcludeRecursive" />
+      <e p="Temp" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
