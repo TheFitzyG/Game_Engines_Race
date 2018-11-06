@@ -21,17 +21,36 @@
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="meshFlipper.cs" pinned="false" current-in-tab="true">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="meshFlipper.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/meshFlipper.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="12" column="65" lean-forward="true" selection-start-line="12" selection-start-column="65" selection-end-line="12" selection-end-column="65" />
+            <state>
+              <caret line="12" column="65" selection-start-line="12" selection-start-column="65" selection-end-line="12" selection-end-column="65" />
               <folding>
                 <marker date="1540670240797" expanded="false" signature="6:97" ph="..." />
                 <marker date="1540670240797" expanded="true" signature="140:404" ph="{...}" />
                 <marker date="1540670240797" expanded="true" signature="190:340" ph="{...}" />
                 <marker date="1540670240797" expanded="true" signature="395:402" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SpinnerScript.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/SpinnerScript.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="377">
+              <caret line="81" column="17" lean-forward="true" selection-start-line="81" selection-start-column="17" selection-end-line="81" selection-end-column="17" />
+              <folding>
+                <marker date="1541536031220" expanded="true" signature="6:153" ph="..." />
+                <marker date="1541536031220" expanded="true" signature="199:1635" ph="{...}" />
+                <marker date="1541536031220" expanded="true" signature="757:968" ph="{...}" />
+                <marker date="1541536031220" expanded="true" signature="899:959" ph="{...}" />
+                <marker date="1541536031220" expanded="true" signature="1023:1485" ph="{...}" />
+                <marker date="1541536031220" expanded="true" signature="1168:1433" ph="{...}" />
+                <marker date="1541536031220" expanded="true" signature="1451:1479" ph="{...}" />
+                <marker date="1541536031220" expanded="true" signature="1507:1632" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -43,12 +62,14 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/SpinnerScript.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/meshFlipper.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Assets/meshFlipper.cs" />
+        <option value="$PROJECT_DIR$/Assets/SpinnerScript.cs" />
       </list>
     </option>
   </component>
@@ -62,8 +83,8 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="5" />
-    <option name="y" value="53" />
+    <option name="x" value="4" />
+    <option name="y" value="52" />
     <option name="width" value="1485" />
     <option name="height" value="825" />
   </component>
@@ -73,8 +94,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="SolutionExplorer" />
       <pane id="Scratches" />
+      <pane id="SolutionExplorer" />
       <pane id="UnityExplorer">
         <subPane>
           <expand>
@@ -125,11 +146,12 @@
       <updated>1540569659384</updated>
       <workItem from="1540569662174" duration="593000" />
       <workItem from="1540670181646" duration="659000" />
+      <workItem from="1541520045475" duration="3558000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1252000" />
+    <option name="totallyTimeSpent" value="4810000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -141,7 +163,8 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1691" height="917" extended-state="6" />
+    <frame x="-8" y="-8" width="1691" height="917" extended-state="7" />
+    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="right" id="Errors In Solution" order="3" />
@@ -153,7 +176,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.11820895" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Unity" />
+      <window_info anchor="bottom" id="Unity" order="8" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
@@ -188,7 +211,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Assets/NewSurfaceShader.shader" />
     <entry file="file://$PROJECT_DIR$/Assets/meshFlipper.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
@@ -198,6 +220,37 @@
             <marker date="1540670240797" expanded="true" signature="140:404" ph="{...}" />
             <marker date="1540670240797" expanded="true" signature="190:340" ph="{...}" />
             <marker date="1540670240797" expanded="true" signature="395:402" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/NewSurfaceShader.shader" />
+    <entry file="file://$PROJECT_DIR$/Assets/meshFlipper.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="12" column="65" selection-start-line="12" selection-start-column="65" selection-end-line="12" selection-end-column="65" />
+          <folding>
+            <marker date="1540670240797" expanded="false" signature="6:97" ph="..." />
+            <marker date="1540670240797" expanded="true" signature="140:404" ph="{...}" />
+            <marker date="1540670240797" expanded="true" signature="190:340" ph="{...}" />
+            <marker date="1540670240797" expanded="true" signature="395:402" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/SpinnerScript.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="377">
+          <caret line="81" column="17" lean-forward="true" selection-start-line="81" selection-start-column="17" selection-end-line="81" selection-end-column="17" />
+          <folding>
+            <marker date="1541536031220" expanded="true" signature="6:153" ph="..." />
+            <marker date="1541536031220" expanded="true" signature="199:1635" ph="{...}" />
+            <marker date="1541536031220" expanded="true" signature="757:968" ph="{...}" />
+            <marker date="1541536031220" expanded="true" signature="899:959" ph="{...}" />
+            <marker date="1541536031220" expanded="true" signature="1023:1485" ph="{...}" />
+            <marker date="1541536031220" expanded="true" signature="1168:1433" ph="{...}" />
+            <marker date="1541536031220" expanded="true" signature="1451:1479" ph="{...}" />
+            <marker date="1541536031220" expanded="true" signature="1507:1632" ph="{...}" />
           </folding>
         </state>
       </provider>
