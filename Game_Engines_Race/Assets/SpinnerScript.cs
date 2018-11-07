@@ -94,7 +94,7 @@ UpdateLine();
 	void UpdateLine() {
 
 
-		LR.numPositions = 2;
+		LR.positionCount = 2;
 		LR.SetPosition(0, transform.position); 
 		LR.SetPosition(1, EndPiece.transform.position);
 
