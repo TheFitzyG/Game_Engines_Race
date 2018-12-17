@@ -55,6 +55,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\FPS_CAMERA.cs" />
     <Compile Include="Assets\meshFlipper.cs" />
     <Compile Include="Assets\SpinnerScript.cs" />
     <Reference Include="Unity.RenderPipelines.Core.Editor">

@@ -5,6 +5,7 @@
     <e p="C:\Users\ThefitzyG\Documents\projects\Game_Engines_Race\Game_Engines_Race" t="IncludeRecursive">
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
+        <e p="FPS_CAMERA.cs" t="Include" />
         <e p="meshFlipper.cs" t="Include" />
         <e p="SpinnerScript.cs" t="Include" />
       </e>
