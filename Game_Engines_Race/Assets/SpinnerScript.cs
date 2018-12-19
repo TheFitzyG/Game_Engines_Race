@@ -60,7 +60,7 @@ UpdateLine();
 		
 		
 		
-		transform.rotation = Quaternion.AngleAxis(theta, transform.up);
+		transform.localRotation = Quaternion.AngleAxis(theta, transform.up);
 
 		theta += (RotationSpeed * Time.deltaTime);
 

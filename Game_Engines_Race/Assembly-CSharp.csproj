@@ -55,8 +55,11 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\AudioManager.cs" />
     <Compile Include="Assets\FPS_CAMERA.cs" />
     <Compile Include="Assets\meshFlipper.cs" />
+    <Compile Include="Assets\PlayerContoller.cs" />
+    <Compile Include="Assets\Sound.cs" />
     <Compile Include="Assets\SpinnerScript.cs" />
     <Reference Include="Unity.RenderPipelines.Core.Editor">
       <HintPath>C:/Users/ThefitzyG/Documents/projects/Game_Engines_Race/Game_Engines_Race/Library/ScriptAssemblies/Unity.RenderPipelines.Core.Editor.dll</HintPath>

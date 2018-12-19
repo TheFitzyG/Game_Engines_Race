@@ -7,6 +7,7 @@
       <e p="Assets" t="Include">
         <e p="FPS_CAMERA.cs" t="Include" />
         <e p="meshFlipper.cs" t="Include" />
+        <e p="PlayerContoller.cs" t="Include" />
         <e p="SpinnerScript.cs" t="Include" />
       </e>
       <e p="Game_Engines_Race.sln" t="IncludeFlat" />
