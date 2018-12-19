@@ -4,7 +4,8 @@
 MonoBehaviour:
   m_ObjectHideFlags: 61
   m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 1
@@ -33,7 +34,7 @@ MonoBehaviour:
   - '{}'
   - '{}'
   - '{}'
+  - '{"position":{"x":-873.798583984375,"y":717.16259765625,"z":0.0},"scale":{"x":0.7561436891555786,"y":0.7561436891555786,"z":1.0}}'
+  - '{"m_Version":46,"m_SelectedElementsArray":["6e8c2e22-d076-469c-8c72-e6dfa650dae9","5d7cb890-92ab-43c6-bf0f-fb9812ba43e0"]}'
   - '{}'
   - '{}'
-  - '{"position":{"x":949.0,"y":261.0,"z":0.0},"scale":{"x":1.0,"y":1.0,"z":1.0}}'
-  - '{"m_Version":11,"m_SelectedElements":[]}'

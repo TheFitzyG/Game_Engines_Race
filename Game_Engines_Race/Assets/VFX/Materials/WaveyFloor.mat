@@ -5,7 +5,8 @@ Material:
   serializedVersion: 6
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
   m_Name: WaveyFloor
   m_Shader: {fileID: 4800000, guid: c2ac824d9b33d4346894dc66ac9ca16e, type: 3}
   m_ShaderKeywords: 
@@ -60,7 +61,7 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Floats:
     - Vector1_2245FA35: 2.58
-    - Vector1_7FFDF1E5: 0.88
+    - Vector1_7FFDF1E5: 3.8
     - _AlphaClip: 0
     - _Blend: 0
     - _BumpScale: 1
@@ -82,7 +83,7 @@ Material:
     - _WorkflowMode: 1
     - _ZWrite: 1
     m_Colors:
-    - Color_7DA537EC: {r: 0.01886791, g: 0.01886791, b: 0.01886791, a: 0}
+    - Color_7DA537EC: {r: 0.5471698, g: 0.39109975, b: 0.13163047, a: 0}
     - Vector2_B0E173FA: {r: 0.25, g: 0.37, b: 0, a: 0}
     - _Color: {r: 0.5, g: 0.5, b: 0.5, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}

@@ -5,7 +5,8 @@ Material:
   serializedVersion: 6
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
   m_Name: Rainbow1 - Copy
   m_Shader: {fileID: 4800000, guid: 6e46e92a3b4502848b61eb4fd0100829, type: 3}
   m_ShaderKeywords: 

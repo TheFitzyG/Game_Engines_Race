@@ -5,7 +5,8 @@ Material:
   serializedVersion: 6
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
   m_Name: Rainbow2
   m_Shader: {fileID: 4800000, guid: 6e46e92a3b4502848b61eb4fd0100829, type: 3}
   m_ShaderKeywords: 
@@ -59,7 +60,9 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     m_Floats:
-    - Vector1_6828974A: 0.28
+    - Boolean_A262413D: 0
+    - Boolean_D45D2D49: 0
+    - Vector1_6828974A: -192.3
     - Vector1_7C579B2E: -2.07
     - Vector1_B56B5207: 0.97
     - Vector1_CE8C1B74: -4.39

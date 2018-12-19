@@ -5,7 +5,8 @@ Material:
   serializedVersion: 6
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
   m_Name: Floor
   m_Shader: {fileID: 4800000, guid: 6e46e92a3b4502848b61eb4fd0100829, type: 3}
   m_ShaderKeywords: 
@@ -59,10 +60,12 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     m_Floats:
-    - Vector1_6828974A: 1.83
-    - Vector1_7C579B2E: 0.27
-    - Vector1_B56B5207: 0.13
-    - Vector1_CE8C1B74: 0.44
+    - Boolean_A262413D: 0
+    - Boolean_D45D2D49: 0
+    - Vector1_6828974A: -500.87
+    - Vector1_7C579B2E: 0.97
+    - Vector1_B56B5207: 2.64
+    - Vector1_CE8C1B74: 4.3
     - _AlphaClip: 0
     - _Blend: 0
     - _BumpScale: 1
@@ -85,8 +88,8 @@ Material:
     - _ZWrite: 1
     m_Colors:
     - Vector2_34E8F4E0: {r: 0.04, g: 0.1, b: 0, a: 0}
-    - Vector2_3E75301C: {r: 0.03, g: -0.4, b: 0, a: 0}
-    - Vector2_445D82E6: {r: -0.8, g: -0.1, b: 0, a: 0}
+    - Vector2_3E75301C: {r: 0.03, g: -0.2, b: 0, a: 0}
+    - Vector2_445D82E6: {r: 0.02, g: -0.1, b: 0, a: 0}
     - _Color: {r: 0.5, g: 0.5, b: 0.5, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
     - _SpecColor: {r: 0.2, g: 0.2, b: 0.2, a: 1}
